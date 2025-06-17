@@ -198,6 +198,8 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.63:8880?allowInsecure=0&s
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.116.7.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CJP_speednode_0136
 trojan://ttfang@119.195.155.85:27094?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#15%7CKR_speednode_0139
 trojan://ttfang@121.154.79.130:10126?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#15%7CKR_speednode_0143
+trojan://ttfang@221.161.58.134:29264?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#15%7CKR_speednode_0152
+trojan://ttfang@218.148.212.190:26120?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#15%7CKR_speednode_0153
 vless://6a7c2881-83f0-47ea-b05c-441a18960ef4@125.134.6.129:11333?allowInsecure=0&sni=mihu.sorry.ip-ddns.com&type=ws&host=mihu.sorry.ip-ddns.com&path=/?ed=2560fp=random&security=tls#15%7CKR_speednode_0155
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CKZ_speednode_0158
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CKZ_speednode_0159
@@ -477,6 +479,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.22.41.31:8443?allowInsecure=0&s
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@14.102.228.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CUS_speednode_0453
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.92.98:443?allowInsecure=0&sni=ZyzZzoAo.pUTaTA.EU.Org&type=ws&host=ZyzZzoAo.pUTaTA.EU.Org&path=/security=tls#15%7CUS_speednode_0454
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?allowInsecure=0&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=/azadnet-1ml.pages.dev/?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0455
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@167.68.42.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CUS_speednode_0456
 vless://19d3e3cc-be48-4200-a27f-e107376385e7@151.101.64.155:80?allowInsecure=0&sni=german.net&type=ws&host=german.net&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=1024#15%7CUS_speednode_0457
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.11.155:443?allowInsecure=0&sni=ZYZzZoAO.PuTATa.EU.org&alpn=h2%2Chttp/1.1&type=ws&host=ZYZzZoAO.PuTATa.EU.org&path=/eR9eo6sq6TUid1Fe?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0458
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.71.31:443?allowInsecure=0&sni=azadnet-6i3.pages.dev&type=ws&host=azadnet-6i3.pages.dev&path=/azadnet-6i3.pages.dev/?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0459
@@ -587,4 +590,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.63:8880?allowInsecure=0
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-17 15:59:00 
+### 更新时间 2025-06-17 16:01:59 
